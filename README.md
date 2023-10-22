@@ -3,6 +3,9 @@
 This project is a random password generator created using HTML, CSS, and JavaScript. It generates a random password each time you use it.
 
 # Demo
+
+![Random Password](https://github.com/UmitAygunn/Generate-Random-Password/assets/140657845/77d242de-ca9a-47a0-907d-2499e4043817)
+
 Live Demo - Try out the live demo of the random password generator to generate secure and unique passwords.
 1) https://653391dd9173487ab043f9c0--superlative-tulumba-d1fdc7.netlify.app/
 
